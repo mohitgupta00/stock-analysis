@@ -1,0 +1,128 @@
+[
+  {
+    "ticker": "ABB.NS",
+    "name": "ABB India Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 5242.0,
+      "high_52w": 7896.6123964702865,
+      "low_52w": 4647.14638941201,
+      "volume_avg": 335208.2470119522,
+      "last_updated": "2025-12-16T19:27:47.489707"
+    },
+    "fundamentals": {
+      "company_name": "ABB India Limited",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 1111177297920,
+      "pe_ratio": 62.778442,
+      "forward_pe": 58.079212,
+      "peg_ratio": null,
+      "pb_ratio": 15.439035,
+      "dividend_yield": 0.82,
+      "roe": null,
+      "debt_to_equity": 1.018,
+      "profit_margin": 0.13557,
+      "revenue_growth": 0.137
+    },
+    "technical": {
+      "current_price": 5242.0,
+      "rsi14": 53.378891419893705,
+      "sma20": 5163.1,
+      "sma50": 5154.06,
+      "sma200": null,
+      "macd": 28.87489617276151,
+      "macd_signal": 12.470979710371028,
+      "bb_upper": 5306.227326457741,
+      "bb_middle": 5163.1,
+      "bb_lower": 5019.97267354226
+    },
+    "score": 0.8,
+    "timestamp": "2025-12-16T19:27:47.809405"
+  },
+  {
+    "ticker": "AEGISLOG.NS",
+    "name": "Aegis Logistics Ltd.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 741.2999877929688,
+      "high_52w": 1026.1081576073832,
+      "low_52w": 603.4445922889223,
+      "volume_avg": 1621939.0,
+      "last_updated": "2025-12-16T19:27:48.901389"
+    },
+    "fundamentals": {
+      "company_name": "N/A",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 260366188544,
+      "pe_ratio": 36.284874,
+      "forward_pe": 28.419983,
+      "peg_ratio": null,
+      "pb_ratio": 4.3774023,
+      "dividend_yield": 1.07,
+      "roe": 0.13468,
+      "debt_to_equity": 28.45,
+      "profit_margin": 0.096540004,
+      "revenue_growth": 0.311
+    },
+    "technical": {
+      "current_price": 741.2999877929688,
+      "rsi14": 41.945766305371535,
+      "sma20": 757.8200012207031,
+      "sma50": 779.3299963378906,
+      "sma200": null,
+      "macd": -9.675668725157152,
+      "macd_signal": -8.721503781985145,
+      "bb_upper": 788.4077809641734,
+      "bb_middle": 757.8200012207031,
+      "bb_lower": 727.2322214772329
+    },
+    "score": 0.55,
+    "timestamp": "2025-12-16T19:27:49.134559"
+  },
+  {
+    "ticker": "ARE&M.NS",
+    "name": "Amara Raja Energy & Mobility Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 921.6500244140625,
+      "high_52w": 1296.1274142220489,
+      "low_52w": 823.171870506895,
+      "volume_avg": 560974.828,
+      "last_updated": "2025-12-16T19:27:50.282683"
+    },
+    "fundamentals": {
+      "company_name": "Amara Raja Energy & Mobility Limited",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 168685322240,
+      "pe_ratio": 18.725111,
+      "forward_pe": 15.580222,
+      "peg_ratio": null,
+      "pb_ratio": 2.179692,
+      "dividend_yield": 1.15,
+      "roe": 0.12014,
+      "debt_to_equity": 4.005,
+      "profit_margin": 0.06827,
+      "revenue_growth": 0.067
+    },
+    "technical": {
+      "current_price": 921.6500244140625,
+      "rsi14": 35.52702019964289,
+      "sma20": 944.6099975585937,
+      "sma50": 969.6258508300781,
+      "sma200": null,
+      "macd": -11.295001907574488,
+      "macd_signal": -10.711016784239833,
+      "bb_upper": 967.446721856678,
+      "bb_middle": 944.6099975585937,
+      "bb_lower": 921.7732732605094
+    },
+    "score": 0.65,
+    "timestamp": "2025-12-16T19:27:50.542557"
+  }
+]

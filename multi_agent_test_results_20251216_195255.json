@@ -1,0 +1,404 @@
+[
+  {
+    "recommendation": {
+      "signal": "HOLD",
+      "score": 0.617,
+      "confidence": 0.78
+    },
+    "agent_scores": {
+      "fundamental": 0.575,
+      "technical": 0.6000000000000001,
+      "peer_comparison": 0.7333333333333334,
+      "macro_context": 0.716,
+      "risk_assessment": 0.5166666666666667
+    },
+    "summary_analysis": "Positive investment case with good fundamentals and technical setup. Fundamental: P/E: 22.278322, ROE: 29.0%, D/E: 8.437, Growth: 3.7%. Fair valuation. Strong profitability with good ROE and margins. High debt levels pose financial risk. Moderate growth prospects. Technical: RSI 62.1 in neutral zone. Strong uptrend with price above key moving averages. MACD indicating bearish momentum. Peer Comparison: Trading at 15.5% discount to peer median P/E. ROE 19.3% above peer median - superior profitability. Ranks in top tier among peers. Compared against: TCS, WIPRO, HCLTECH. Macro Context: Moderate GDP growth (6.2%) provides stable backdrop. Inflation within RBI comfort zone. Neutral monetary policy stance. IT sector benefits from USD/INR at 83.2 and global IT spending growth of 6.5%. Positive market sentiment and FII inflows provide tailwinds. Risk Assessment: High valuation risk - trading at expensive multiples. High financial risk with D/E ratio of 8.44. Moderate price volatility. Limited safety margin - potential overvaluation. Potential downside to 52-week low: 20.3%.",
+    "key_insights": [
+      "Strong profitability with ROE of 29.0%",
+      "High debt levels warrant careful monitoring"
+    ],
+    "risk_factors": [
+      "Poor financial health",
+      "Negative price momentum",
+      "High valuation risk",
+      "Elevated financial risk"
+    ],
+    "opportunities": [
+      "Strong profitability metrics",
+      "Strong uptrend in place",
+      "Positive market sentiment"
+    ],
+    "ticker": "INFY.NS",
+    "user_query": "Should I invest in INFY for long term?",
+    "user_preference": "balanced",
+    "active_agents": [
+      "fundamental",
+      "technical",
+      "peer_comparison",
+      "macro_context",
+      "risk_assessment"
+    ],
+    "agent_results": {
+      "fundamental": {
+        "agent_name": "Fundamental_Analysis_Agent",
+        "weight": 0.3,
+        "scores": {
+          "valuation_score": 0.5,
+          "profitability_score": 1,
+          "financial_health_score": 0.3,
+          "growth_score": 0.5
+        },
+        "overall_score": 0.575,
+        "analysis": "P/E: 22.278322, ROE: 29.0%, D/E: 8.437, Growth: 3.7%. Fair valuation. Strong profitability with good ROE and margins. High debt levels pose financial risk. Moderate growth prospects.",
+        "key_metrics": {
+          "pe_ratio": 22.278322,
+          "pb_ratio": 6.2643476,
+          "roe": 0.29026,
+          "debt_to_equity": 8.437,
+          "profit_margin": 0.16584998,
+          "revenue_growth": 0.037,
+          "market_cap": 6444129714176,
+          "sector": "Technology"
+        },
+        "recommendation_signal": "HOLD",
+        "confidence": 0.9,
+        "timestamp": "2025-12-16T19:52:53.867896"
+      },
+      "technical": {
+        "agent_name": "Technical_Analysis_Agent",
+        "weight": 0.25,
+        "scores": {
+          "momentum_score": 0.4,
+          "trend_score": 0.9,
+          "macd_score": 0.4,
+          "volatility_score": 0.7,
+          "price_position_score": 0.6
+        },
+        "overall_score": 0.6000000000000001,
+        "analysis": "RSI 62.1 in neutral zone. Strong uptrend with price above key moving averages. MACD indicating bearish momentum.",
+        "key_metrics": {
+          "current_price": 1592.9000244140625,
+          "rsi14": 62.135926439490525,
+          "sma20": 1574.679998779297,
+          "sma50": 1520.5433422851563,
+          "sma200": 1513.982173461914,
+          "macd": 24.127609756002585,
+          "macd_signal": 24.895483747658467,
+          "bb_upper": 1628.4036894449405,
+          "bb_middle": 1574.679998779297,
+          "bb_lower": 1520.9563081136534,
+          "high_52w": 1942.1240981650324,
+          "low_52w": 1269.4320382766355,
+          "volume_avg": 7541709.418326694
+        },
+        "recommendation_signal": "HOLD",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:53.911128"
+      },
+      "peer_comparison": {
+        "agent_name": "Peer_Comparison_Agent",
+        "weight": 0.15,
+        "scores": {
+          "relative_valuation_score": 0.7,
+          "relative_profitability_score": 0.7,
+          "peer_ranking_score": 0.8
+        },
+        "overall_score": 0.7333333333333334,
+        "analysis": "Trading at 15.5% discount to peer median P/E. ROE 19.3% above peer median - superior profitability. Ranks in top tier among peers. Compared against: TCS, WIPRO, HCLTECH.",
+        "key_metrics": {
+          "target_pe": 22.278322,
+          "target_roe": 0.29026,
+          "target_market_cap": 6444129714176,
+          "peer_count": 4,
+          "peer_median_pe": 26.368135,
+          "peer_avg_pe": 25.301413,
+          "peer_median_roe": 0.24326,
+          "peer_avg_roe": 0.2601449925,
+          "peer_tickers": [
+            "TCS.NS",
+            "WIPRO.NS",
+            "HCLTECH.NS",
+            "TECHM.NS"
+          ]
+        },
+        "recommendation_signal": "BUY",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:53.983807"
+      },
+      "macro_context": {
+        "agent_name": "Macro_Context_Agent",
+        "weight": 0.15,
+        "scores": {
+          "gdp_impact_score": 0.58,
+          "interest_rate_impact_score": 0.9,
+          "inflation_impact_score": 0.6,
+          "currency_impact_score": 0.7,
+          "market_sentiment_score": 0.7999999999999999
+        },
+        "overall_score": 0.716,
+        "analysis": "Moderate GDP growth (6.2%) provides stable backdrop. Inflation within RBI comfort zone. Neutral monetary policy stance. IT sector benefits from USD/INR at 83.2 and global IT spending growth of 6.5%. Positive market sentiment and FII inflows provide tailwinds.",
+        "key_metrics": {
+          "gdp_growth": 6.2,
+          "inflation_rate": 4.8,
+          "repo_rate": 6.5,
+          "usd_inr_rate": 83.2,
+          "market_sentiment": "BULLISH",
+          "fii_flows": "POSITIVE",
+          "sector": "Technology",
+          "global_it_spending_growth": 6.5,
+          "crude_oil_price": 75
+        },
+        "recommendation_signal": "BUY",
+        "confidence": 0.8,
+        "timestamp": "2025-12-16T19:52:53.994603"
+      },
+      "risk_assessment": {
+        "agent_name": "Risk_Assessment_Agent",
+        "weight": 0.15,
+        "scores": {
+          "valuation_risk_score": 0.39999999999999997,
+          "financial_risk_score": 0.2,
+          "volatility_risk_score": 0.6,
+          "liquidity_risk_score": 0.9,
+          "safety_margin_score": 0.4,
+          "downside_risk_score": 0.6
+        },
+        "overall_score": 0.5166666666666667,
+        "analysis": "High valuation risk - trading at expensive multiples. High financial risk with D/E ratio of 8.44. Moderate price volatility. Limited safety margin - potential overvaluation. Potential downside to 52-week low: 20.3%.",
+        "key_metrics": {
+          "current_price": 1592.9000244140625,
+          "pe_ratio": 22.278322,
+          "debt_to_equity": 8.437,
+          "market_cap": 6444129714176,
+          "high_52w": 1942.1240981650324,
+          "low_52w": 1269.4320382766355,
+          "volume_avg": 7541709.418326694,
+          "annualized_volatility": 0.23930992933492318,
+          "max_drawdown": 0.3015201868229854,
+          "estimated_intrinsic_value": 1072.5000009520888,
+          "safety_margin_percent": -48.522146666666636
+        },
+        "recommendation_signal": "WEAK_HOLD",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:54.114194"
+      }
+    },
+    "analysis_timestamp": "2025-12-16T19:52:54.114376"
+  },
+  {
+    "recommendation": {
+      "signal": "HOLD",
+      "score": 0.613,
+      "confidence": 0.8
+    },
+    "agent_scores": {
+      "fundamental": 0.575,
+      "peer_comparison": 0.7666666666666666,
+      "risk_assessment": 0.5333333333333333
+    },
+    "summary_analysis": "Positive investment case with good fundamentals and technical setup. Fundamental: P/E: 23.45653, ROE: 47.4%, D/E: 10.173, Growth: 2.4%. Fair valuation. Strong profitability with good ROE and margins. High debt levels pose financial risk. Moderate growth prospects. May not suit strict value investing criteria. Peer Comparison: Trading at 11.0% discount to peer median P/E. ROE 94.7% above peer median - superior profitability. Ranks in top tier among peers. Compared against: INFY, WIPRO, HCLTECH. Risk Assessment: High valuation risk - trading at expensive multiples. High financial risk with D/E ratio of 10.17. Moderate price volatility. Limited safety margin - potential overvaluation. Limited downside risk from current levels. Potential downside to 52-week low: 10.9%. Risk-reward may not favor value investing strategy.",
+    "key_insights": [
+      "Strong profitability with ROE of 47.4%",
+      "High debt levels warrant careful monitoring"
+    ],
+    "risk_factors": [
+      "Poor financial health",
+      "High valuation risk",
+      "Elevated financial risk",
+      "Limited safety margin"
+    ],
+    "opportunities": [
+      "Strong profitability metrics"
+    ],
+    "ticker": "TCS.NS",
+    "user_query": "Compare TCS fundamentals with peers",
+    "user_preference": "value",
+    "active_agents": [
+      "fundamental",
+      "peer_comparison",
+      "risk_assessment"
+    ],
+    "agent_results": {
+      "fundamental": {
+        "agent_name": "Fundamental_Analysis_Agent",
+        "weight": 0.3,
+        "scores": {
+          "valuation_score": 0.5,
+          "profitability_score": 1,
+          "financial_health_score": 0.3,
+          "growth_score": 0.5
+        },
+        "overall_score": 0.575,
+        "analysis": "P/E: 23.45653, ROE: 47.4%, D/E: 10.173, Growth: 2.4%. Fair valuation. Strong profitability with good ROE and margins. High debt levels pose financial risk. Moderate growth prospects. May not suit strict value investing criteria.",
+        "key_metrics": {
+          "pe_ratio": 23.45653,
+          "pb_ratio": 10.89729,
+          "roe": 0.47355998,
+          "debt_to_equity": 10.173,
+          "profit_margin": 0.19186,
+          "revenue_growth": 0.024,
+          "market_cap": 11596332007424,
+          "sector": "Technology"
+        },
+        "recommendation_signal": "HOLD",
+        "confidence": 0.9,
+        "timestamp": "2025-12-16T19:52:54.226300"
+      },
+      "peer_comparison": {
+        "agent_name": "Peer_Comparison_Agent",
+        "weight": 0.15,
+        "scores": {
+          "relative_valuation_score": 0.7,
+          "relative_profitability_score": 0.8,
+          "peer_ranking_score": 0.8
+        },
+        "overall_score": 0.7666666666666666,
+        "analysis": "Trading at 11.0% discount to peer median P/E. ROE 94.7% above peer median - superior profitability. Ranks in top tier among peers. Compared against: INFY, WIPRO, HCLTECH.",
+        "key_metrics": {
+          "target_pe": 23.45653,
+          "target_roe": 0.47355998,
+          "target_market_cap": 11596332007424,
+          "peer_count": 4,
+          "peer_median_pe": 26.368135,
+          "peer_avg_pe": 25.006860999999997,
+          "peer_median_roe": 0.24326,
+          "peer_avg_roe": 0.2143199975,
+          "peer_tickers": [
+            "INFY.NS",
+            "WIPRO.NS",
+            "HCLTECH.NS",
+            "TECHM.NS"
+          ]
+        },
+        "recommendation_signal": "STRONG_BUY",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:54.409049"
+      },
+      "risk_assessment": {
+        "agent_name": "Risk_Assessment_Agent",
+        "weight": 0.15,
+        "scores": {
+          "valuation_risk_score": 0.39999999999999997,
+          "financial_risk_score": 0.2,
+          "volatility_risk_score": 0.6,
+          "liquidity_risk_score": 0.9,
+          "safety_margin_score": 0.4,
+          "downside_risk_score": 0.7
+        },
+        "overall_score": 0.5333333333333333,
+        "analysis": "High valuation risk - trading at expensive multiples. High financial risk with D/E ratio of 10.17. Moderate price volatility. Limited safety margin - potential overvaluation. Limited downside risk from current levels. Potential downside to 52-week low: 10.9%. Risk-reward may not favor value investing strategy.",
+        "key_metrics": {
+          "current_price": 3205.10009765625,
+          "pe_ratio": 23.45653,
+          "debt_to_equity": 10.173,
+          "market_cap": 11596332007424,
+          "high_52w": 4324.572341973805,
+          "low_52w": 2855.9483563860495,
+          "volume_avg": 2655745.561752988,
+          "annualized_volatility": 0.20443536904818305,
+          "max_drawdown": 0.34448983110231146,
+          "estimated_intrinsic_value": 2049.5998966958773,
+          "safety_margin_percent": -56.37686666666668
+        },
+        "recommendation_signal": "WEAK_HOLD",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:54.650051"
+      }
+    },
+    "analysis_timestamp": "2025-12-16T19:52:54.650248"
+  },
+  {
+    "recommendation": {
+      "signal": "WEAK_HOLD",
+      "score": 0.506,
+      "confidence": 0.9
+    },
+    "agent_scores": {
+      "technical": 0.5399999999999999,
+      "risk_assessment": 0.44999999999999996
+    },
+    "summary_analysis": "Mixed signals suggest a balanced risk-reward profile. Technical: RSI 36.8 in neutral zone. Mixed trend signals from moving averages. MACD indicating bearish momentum. Risk Assessment: Moderate valuation risk. High financial risk with D/E ratio of 35.65. Moderate price volatility. Limited safety margin - potential overvaluation. Elevated downside risk - price near recent highs. Potential downside to 52-week low: 28.0%. Risk levels acceptable for growth-oriented investors.",
+    "key_insights": [
+      "High debt levels warrant careful monitoring"
+    ],
+    "risk_factors": [
+      "Bearish trend signals",
+      "Elevated financial risk",
+      "Limited safety margin"
+    ],
+    "opportunities": [
+      "Positive momentum building"
+    ],
+    "ticker": "RELIANCE.NS",
+    "user_query": "What are the technical indicators showing?",
+    "user_preference": "growth",
+    "active_agents": [
+      "technical",
+      "risk_assessment"
+    ],
+    "agent_results": {
+      "technical": {
+        "agent_name": "Technical_Analysis_Agent",
+        "weight": 0.25,
+        "scores": {
+          "momentum_score": 0.8,
+          "trend_score": 0.4,
+          "macd_score": 0.4,
+          "volatility_score": 0.7,
+          "price_position_score": 0.4
+        },
+        "overall_score": 0.5399999999999999,
+        "analysis": "RSI 36.8 in neutral zone. Mixed trend signals from moving averages. MACD indicating bearish momentum.",
+        "key_metrics": {
+          "current_price": 1542.300048828125,
+          "rsi14": 36.832063513880264,
+          "sma20": 1546.3850036621093,
+          "sma50": 1492.5700073242188,
+          "sma200": 1402.2891851806642,
+          "macd": 13.833756793151679,
+          "macd_signal": 17.58470572472748,
+          "bb_upper": 1573.174406839244,
+          "bb_middle": 1546.3850036621093,
+          "bb_lower": 1519.5956004849745,
+          "high_52w": 1581.300048828125,
+          "low_52w": 1110.415052053189,
+          "volume_avg": 11288694.219123505
+        },
+        "recommendation_signal": "WEAK_HOLD",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:54.756051"
+      },
+      "risk_assessment": {
+        "agent_name": "Risk_Assessment_Agent",
+        "weight": 0.15,
+        "scores": {
+          "valuation_risk_score": 0.5,
+          "financial_risk_score": 0.2,
+          "volatility_risk_score": 0.6,
+          "liquidity_risk_score": 0.9,
+          "safety_margin_score": 0.2,
+          "downside_risk_score": 0.3
+        },
+        "overall_score": 0.44999999999999996,
+        "analysis": "Moderate valuation risk. High financial risk with D/E ratio of 35.65. Moderate price volatility. Limited safety margin - potential overvaluation. Elevated downside risk - price near recent highs. Potential downside to 52-week low: 28.0%. Risk levels acceptable for growth-oriented investors.",
+        "key_metrics": {
+          "current_price": 1542.300048828125,
+          "pe_ratio": 25.090288,
+          "debt_to_equity": 35.651,
+          "market_cap": 20871901085696,
+          "high_52w": 1581.300048828125,
+          "low_52w": 1110.415052053189,
+          "volume_avg": 11288694.219123505,
+          "annualized_volatility": 0.21277559664186274,
+          "max_drawdown": 0.27175745007823265,
+          "estimated_intrinsic_value": 922.0500271827041,
+          "safety_margin_percent": -67.26858666666668
+        },
+        "recommendation_signal": "SELL",
+        "confidence": 0.8999999999999999,
+        "timestamp": "2025-12-16T19:52:55.054983"
+      }
+    },
+    "analysis_timestamp": "2025-12-16T19:52:55.055122"
+  }
+]

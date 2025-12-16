@@ -1,0 +1,422 @@
+[
+  {
+    "ticker": "ABB.NS",
+    "name": "ABB India Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 5242.0,
+      "high_52w": 7896.6123964702865,
+      "low_52w": 4647.14638941201,
+      "volume_avg": 335208.2470119522,
+      "last_updated": "2025-12-16T19:28:02.771988"
+    },
+    "fundamentals": {
+      "company_name": "ABB India Limited",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "market_cap": 1111177297920,
+      "pe_ratio": 62.778442,
+      "forward_pe": 58.079212,
+      "peg_ratio": null,
+      "pb_ratio": 15.439035,
+      "dividend_yield": 0.82,
+      "roe": null,
+      "debt_to_equity": 1.018,
+      "profit_margin": 0.13557,
+      "revenue_growth": 0.137
+    },
+    "technical": {
+      "current_price": 5242.0,
+      "rsi14": 53.378891419893705,
+      "sma20": 5163.1,
+      "sma50": 5154.06,
+      "sma200": null,
+      "macd": 28.87489617276151,
+      "macd_signal": 12.470979710371028,
+      "bb_upper": 5306.227326457741,
+      "bb_middle": 5163.1,
+      "bb_lower": 5019.97267354226
+    },
+    "score": 0.8,
+    "timestamp": "2025-12-16T19:28:03.139214"
+  },
+  {
+    "ticker": "AEGISLOG.NS",
+    "name": "Aegis Logistics Ltd.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 741.2999877929688,
+      "high_52w": 1026.1081576073832,
+      "low_52w": 603.4445922889223,
+      "volume_avg": 1621939.0,
+      "last_updated": "2025-12-16T19:28:04.250904"
+    },
+    "fundamentals": {
+      "company_name": "N/A",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "market_cap": 260366188544,
+      "pe_ratio": 36.284874,
+      "forward_pe": 28.419983,
+      "peg_ratio": null,
+      "pb_ratio": 4.3774023,
+      "dividend_yield": 1.07,
+      "roe": 0.13468,
+      "debt_to_equity": 28.45,
+      "profit_margin": 0.096540004,
+      "revenue_growth": 0.311
+    },
+    "technical": {
+      "current_price": 741.2999877929688,
+      "rsi14": 41.945766305371535,
+      "sma20": 757.8200012207031,
+      "sma50": 779.3299963378906,
+      "sma200": null,
+      "macd": -9.675668725157152,
+      "macd_signal": -8.721503781985145,
+      "bb_upper": 788.4077809641734,
+      "bb_middle": 757.8200012207031,
+      "bb_lower": 727.2322214772329
+    },
+    "score": 0.55,
+    "timestamp": "2025-12-16T19:28:04.486776"
+  },
+  {
+    "ticker": "ARE&M.NS",
+    "name": "Amara Raja Energy & Mobility Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 921.6500244140625,
+      "high_52w": 1296.1274142220489,
+      "low_52w": 823.1719237168658,
+      "volume_avg": 560974.828,
+      "last_updated": "2025-12-16T19:28:05.681658"
+    },
+    "fundamentals": {
+      "company_name": "Amara Raja Energy & Mobility Limited",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "market_cap": 168685322240,
+      "pe_ratio": 18.725111,
+      "forward_pe": 15.580222,
+      "peg_ratio": null,
+      "pb_ratio": 2.179692,
+      "dividend_yield": 1.15,
+      "roe": 0.12014,
+      "debt_to_equity": 4.005,
+      "profit_margin": 0.06827,
+      "revenue_growth": 0.067
+    },
+    "technical": {
+      "current_price": 921.6500244140625,
+      "rsi14": 35.52702019964289,
+      "sma20": 944.6099975585937,
+      "sma50": 969.6258508300781,
+      "sma200": null,
+      "macd": -11.295001907574488,
+      "macd_signal": -10.711016784239833,
+      "bb_upper": 967.446721856678,
+      "bb_middle": 944.6099975585937,
+      "bb_lower": 921.7732732605094
+    },
+    "score": 0.65,
+    "timestamp": "2025-12-16T19:28:06.052971"
+  },
+  {
+    "ticker": "BOMDYEING.NS",
+    "name": "Bombay Dyeing & Mfg. Co. Ltd.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 129.4499969482422,
+      "high_52w": 221.02812566377855,
+      "low_52w": 116.66503413237373,
+      "volume_avg": 1680964.637450199,
+      "last_updated": "2025-12-16T19:28:07.237414"
+    },
+    "fundamentals": {
+      "company_name": "The Bombay Dyeing and Manufacturing Company Limited",
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "market_cap": 26735941632,
+      "pe_ratio": 27.542553,
+      "forward_pe": null,
+      "peg_ratio": null,
+      "pb_ratio": 1.1679945,
+      "dividend_yield": 0.9,
+      "roe": 0.04038,
+      "debt_to_equity": 0.13,
+      "profit_margin": 0.06427,
+      "revenue_growth": -0.047
+    },
+    "technical": {
+      "current_price": 129.4499969482422,
+      "rsi14": 23.225822964750265,
+      "sma20": 138.67350082397462,
+      "sma50": 154.8218002319336,
+      "sma200": null,
+      "macd": -7.286360538012559,
+      "macd_signal": -7.335587447158934,
+      "bb_upper": 153.62218428310325,
+      "bb_middle": 138.67350082397462,
+      "bb_lower": 123.72481736484598
+    },
+    "score": 0.6,
+    "timestamp": "2025-12-16T19:28:07.648213"
+  },
+  {
+    "ticker": "ATUL.NS",
+    "name": "Atul Limited.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 5759.5,
+      "high_52w": 7762.057307316706,
+      "low_52w": 4736.170337848527,
+      "volume_avg": 57223.74900398406,
+      "last_updated": "2025-12-16T19:28:08.829664"
+    },
+    "fundamentals": {
+      "company_name": "Atul Ltd",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "market_cap": 169569796096,
+      "pe_ratio": 31.25407,
+      "forward_pe": 22.352306,
+      "peg_ratio": null,
+      "pb_ratio": 2.865537,
+      "dividend_yield": 0.43,
+      "roe": 0.09648,
+      "debt_to_equity": 3.14,
+      "profit_margin": 0.09193,
+      "revenue_growth": 0.114
+    },
+    "technical": {
+      "current_price": 5759.5,
+      "rsi14": 39.70166379804934,
+      "sma20": 5880.675,
+      "sma50": 5891.32,
+      "sma200": null,
+      "macd": -29.226710420368363,
+      "macd_signal": -29.13632774687103,
+      "bb_upper": 6090.617166221717,
+      "bb_middle": 5880.675,
+      "bb_lower": 5670.732833778284
+    },
+    "score": 0.55,
+    "timestamp": "2025-12-16T19:28:09.183153"
+  },
+  {
+    "ticker": "BAJAJELEC.NS",
+    "name": "Bajaj Electricals Ltd.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 478.0,
+      "high_52w": 822.3196980101108,
+      "low_52w": 458.1499938964844,
+      "volume_avg": 167984.06772908368,
+      "last_updated": "2025-12-16T19:28:10.349475"
+    },
+    "fundamentals": {
+      "company_name": "Bajaj Electricals Limited",
+      "sector": "Consumer Cyclical",
+      "industry": "Furnishings, Fixtures & Appliances",
+      "market_cap": 55155675136,
+      "pe_ratio": 51.122993,
+      "forward_pe": 29.265312,
+      "peg_ratio": null,
+      "pb_ratio": 3.2367063,
+      "dividend_yield": 0.63,
+      "roe": 0.06498,
+      "debt_to_equity": 84.783,
+      "profit_margin": 0.0218,
+      "revenue_growth": -0.01
+    },
+    "technical": {
+      "current_price": 478.0,
+      "rsi14": 32.89033715429366,
+      "sma20": 482.61499938964846,
+      "sma50": 506.7809979248047,
+      "sma200": null,
+      "macd": -9.094259298199404,
+      "macd_signal": -10.387170469765548,
+      "bb_upper": 495.19739670982773,
+      "bb_middle": 482.61499938964846,
+      "bb_lower": 470.0326020694692
+    },
+    "score": 0.5,
+    "timestamp": "2025-12-16T19:28:10.581906"
+  },
+  {
+    "ticker": "BAJAJHIND.NS",
+    "name": "Bajaj Hindusthan Sugar Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 18.739999771118164,
+      "high_52w": 33.7400016784668,
+      "low_52w": 16.5,
+      "volume_avg": 8074292.003984064,
+      "last_updated": "2025-12-16T19:28:11.715931"
+    },
+    "fundamentals": {
+      "company_name": "Bajaj Hindusthan Sugar Limited",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "market_cap": 23345123328,
+      "pe_ratio": null,
+      "forward_pe": null,
+      "peg_ratio": null,
+      "pb_ratio": 0.62427133,
+      "dividend_yield": null,
+      "roe": -0.04,
+      "debt_to_equity": 87.126,
+      "profit_margin": -0.02953,
+      "revenue_growth": -0.002
+    },
+    "technical": {
+      "current_price": 18.739999771118164,
+      "rsi14": 25.708066796261093,
+      "sma20": 19.998999977111815,
+      "sma50": 21.013600044250488,
+      "sma200": null,
+      "macd": -0.549237979283479,
+      "macd_signal": -0.4817300300152044,
+      "bb_upper": 21.48957253794068,
+      "bb_middle": 19.998999977111815,
+      "bb_lower": 18.50842741628295
+    },
+    "score": 0.6,
+    "timestamp": "2025-12-16T19:28:11.999758"
+  },
+  {
+    "ticker": "FORCEMOT.NS",
+    "name": "Force Motors Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 17330.0,
+      "high_52w": 21941.558804609365,
+      "low_52w": 6111.507490406573,
+      "volume_avg": 100513.47410358566,
+      "last_updated": "2025-12-16T19:28:13.124879"
+    },
+    "fundamentals": {
+      "company_name": "Force Motors Limited",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "market_cap": 228344627200,
+      "pe_ratio": 21.221882,
+      "forward_pe": null,
+      "peg_ratio": null,
+      "pb_ratio": 6.512335,
+      "dividend_yield": 0.23,
+      "roe": 0.35486,
+      "debt_to_equity": null,
+      "profit_margin": 0.12488,
+      "revenue_growth": 0.072
+    },
+    "technical": {
+      "current_price": 17330.0,
+      "rsi14": 55.05036754696433,
+      "sma20": 17304.1,
+      "sma50": 17173.1,
+      "sma200": null,
+      "macd": -48.39272722493479,
+      "macd_signal": -34.54976546825814,
+      "bb_upper": 18115.756888878,
+      "bb_middle": 17304.1,
+      "bb_lower": 16492.443111121996
+    },
+    "score": 0.9,
+    "timestamp": "2025-12-16T19:28:13.352575"
+  },
+  {
+    "ticker": "BAJFINANCE.NS",
+    "name": "Bajaj Finance Limited",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 998.4000244140625,
+      "high_52w": 1102.5,
+      "low_52w": 675.0346971874478,
+      "volume_avg": 9614580.079681275,
+      "last_updated": "2025-12-16T19:28:14.557714"
+    },
+    "fundamentals": {
+      "company_name": "Bajaj Finance Limited",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "market_cap": 6205190701056,
+      "pe_ratio": 33.87852,
+      "forward_pe": 24.053461,
+      "peg_ratio": null,
+      "pb_ratio": 6.007654,
+      "dividend_yield": 0.43,
+      "roe": 0.1909,
+      "debt_to_equity": 310.294,
+      "profit_margin": 0.45033002,
+      "revenue_growth": 0.206
+    },
+    "technical": {
+      "current_price": 998.4000244140625,
+      "rsi14": 45.89178462932226,
+      "sma20": 1016.6900024414062,
+      "sma50": 1035.4600036621093,
+      "sma200": null,
+      "macd": -5.03441372920463,
+      "macd_signal": -3.4296902142350953,
+      "bb_upper": 1047.3833855316432,
+      "bb_middle": 1016.6900024414062,
+      "bb_lower": 985.9966193511693
+    },
+    "score": 0.55,
+    "timestamp": "2025-12-16T19:28:14.834615"
+  },
+  {
+    "ticker": "BALRAMCHIN.NS",
+    "name": "Balrampur Chini Mills Ltd.",
+    "group": "A",
+    "status": "success",
+    "price_data": {
+      "current_price": 443.5,
+      "high_52w": 623.0797010756496,
+      "low_52w": 407.79998779296875,
+      "volume_avg": 478407.2430278885,
+      "last_updated": "2025-12-16T19:28:16.015256"
+    },
+    "fundamentals": {
+      "company_name": "Balrampur Chini Mills Limited",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "market_cap": 89565020160,
+      "pe_ratio": 22.197197,
+      "forward_pe": 16.744879,
+      "peg_ratio": null,
+      "pb_ratio": 2.2842455,
+      "dividend_yield": 1.57,
+      "roe": 0.10847,
+      "debt_to_equity": 19.761,
+      "profit_margin": 0.06855,
+      "revenue_growth": 0.287
+    },
+    "technical": {
+      "current_price": 443.5,
+      "rsi14": 45.19999548339705,
+      "sma20": 445.882502746582,
+      "sma50": 454.6632336425781,
+      "sma200": null,
+      "macd": -4.631331717369619,
+      "macd_signal": -5.476053244434916,
+      "bb_upper": 465.4458807922216,
+      "bb_middle": 445.882502746582,
+      "bb_lower": 426.31912470094244
+    },
+    "score": 0.6,
+    "timestamp": "2025-12-16T19:28:16.263616"
+  }
+]
